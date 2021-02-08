@@ -1,0 +1,38 @@
+
+
+.titulo{
+   color:teal
+}
+strong{
+    color:red;
+ }
+.destacado{
+    color:orange;
+ }
+.subtitulo{
+    color: blue;
+ }
+ .xd{
+    color:red;
+ }
+ .especial{
+    color:purple;
+ }
+
+ .p1{
+    color:olive;
+ }
+
+ .p2{
+    color:olive;
+ }
+
+ .p3{
+    color:olive;
+ }
+.especial.p1{
+    color:fuchsia;
+ }
+.link{
+    color:green;
+ }
